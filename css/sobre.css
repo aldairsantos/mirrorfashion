@@ -1,0 +1,56 @@
+body {
+	color: #333;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	width: 940px;
+	margin-left: auto; 
+	margin-right: auto;
+}
+h1{
+	background-image: url(../img/sobre-background.jpg);
+	padding: 10px; 
+}
+h2{
+	border-bottom:2px solid #333;
+	margin-top: 30px;
+}
+figure{
+	background-color: #f2eded;
+	border: 1px solid #ccc;
+	text-align: center;
+	padding: 15px;
+	margin: 30px;
+}
+figcaption{
+	font-style: italic;
+	margin-top: 10px;
+}
+p{
+	padding: 0px 45px;
+	text-indent: 15px;
+}
+#centro-distribuicao{
+	width: 550px;
+	margin-left: auto; 
+	margin-right: auto;
+}
+#familia-pelho{
+	float: right;
+	margin: 0px 0px 10px 10px;
+}
+#acao{
+	color: #00f;
+	background-color: #f2eded;
+	font-size: 40px;
+	font-weight: bolder;
+	text-align: center;
+}
+#rodape{
+	color: #777;
+	margin: 30px 0px;
+	padding: 30px 0px;
+}
+#rodape img{
+	width: 94px;
+	margin-right: 30px;
+	vertical-align: middle;
+}
